@@ -1,0 +1,64 @@
+body{
+
+    background: linear-gradient(to bottom, #6F1D3A, #005EB8); 
+    color: white; 
+    margin: 0; 
+    padding: 20px; 
+}
+
+.ts {
+    color: #005EB8;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#Tarihçe {
+
+    color: rgb(255, 255, 255)
+    font-size z 30px;
+    text-align : center;
+    font-family: Arial,sans-serif;
+    
+}
+
+.tsforma{
+    font-size:x-large;
+    text-align: center;
+    color: #005EB8;
+
+}
+
+.tsşort{
+
+    font-size:x-large;
+    text-align: center;
+    color:darkred;
+
+}
+
+ p {
+    font-family: arial;
+    text-align: justify;
+}
+
+#Forma {
+    font-family: arial;
+    color: #005EB8;
+    font-size:medium;
+}
+
+#Şort{
+    font-family: arial;
+    color: darkred;
+    font-size:medium;
+}
+
+div p {
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
